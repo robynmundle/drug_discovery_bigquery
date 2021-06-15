@@ -1,5 +1,5 @@
 # Drug Discovery - Google BigQuery - ChEMBL EBI Small Molecule Database
-A large-scale bioactivity database for drug discovery (BigQuery) from [Kaggle](https://www.kaggle.com/bigquery/ebi-chembl) to investigate how Machine Learning can be implemented with drug discovery.
+A large-scale bioactivity database for drug discovery (BigQuery) from [Kaggle](https://www.kaggle.com/bigquery/ebi-chembl) to investigate how Machine Learning can be implemented with drug discovery. This is a BigQuery Dataset. There are no files to download, but you can query it through Kernels using the [BigQuery API](https://www.kaggle.com/sohier/beyond-queries-exploring-the-bigquery-api).
 
 ## Context
 ChEMBL is maintained by the European Bioinformatics Institute (EBI), of the European Molecular Biology Laboratory (EMBL), based at the Wellcome Trust Genome Campus, Hinxton, UK.
